@@ -5,12 +5,8 @@ import { Separator } from "@/components/ui/separator";
 import Trust from "@/assets/trusted.jpg";
 
 function Trusted() {
-  function scrollToInquiry() {
-    const el = document.getElementById("inquiry");
-    el?.scrollIntoView({ behavior: "smooth", block: "start" });
-  }
   return (
-    <section id="trusted" className="relative">
+    <section className="relative">
       <div className="mx-auto px-20 py-10 md:py-14">
         <div className="grid grid-cols-1 lg:grid-cols-[1.05fr_0.95fr] gap-6 items-start">
           <div className="mt-12">
