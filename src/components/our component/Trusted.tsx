@@ -10,7 +10,7 @@ function Trusted() {
     el?.scrollIntoView({ behavior: "smooth", block: "start" });
   }
   return (
-    <section className="relative">
+    <section id="trusted" className="relative">
       <div className="mx-auto px-20 py-10 md:py-14">
         <div className="grid grid-cols-1 lg:grid-cols-[1.05fr_0.95fr] gap-6 items-start">
           <div className="mt-12">
