@@ -39,7 +39,7 @@ function inquiry() {
             <img src={Inqurary} alt="" className='rounded-2xl mt-10'/>
             </div>
 
-            <Card className="rounded-2xl border-white/10 bg-gradient-to-b from-white/10 to-white/5 p-6 md:p-7 backdrop-blur shadow-[0_24px_70px_rgba(0,0,0,0.45)]">
+            <div className="rounded-2xl border-white/10 bg-gradient-to-b from-white/10 to-white/5 p-6 md:p-7 backdrop-blur shadow-[0_24px_70px_rgba(0,0,0,0.45)]">
               <form className="grid gap-4" action="#" method="post">
                 <div className="grid gap-2">
                   <Label className="text-white/80">Full name</Label>
@@ -148,7 +148,7 @@ function inquiry() {
                   Disclaimer: Availability, pricing, and terms may change.
                 </div>
               </form>
-            </Card>
+            </div>
           </div>
         </div>
       </section>
