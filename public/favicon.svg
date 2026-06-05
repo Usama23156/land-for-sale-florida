@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Florida Lots For Sale">
+  <rect width="64" height="64" fill="#FEFAF6"/>
+  <rect x="8" y="8" width="48" height="48" fill="#D4A373"/>
+  <path d="M16 46h32v4H16v-4Zm0-8h22v4H16v-4Zm0-24h32v20H16V14Zm4 4v12h24V18H20Z" fill="#3C2F2F"/>
+  <path d="M42 38h6v12h-6V38Z" fill="#588157"/>
+</svg>
