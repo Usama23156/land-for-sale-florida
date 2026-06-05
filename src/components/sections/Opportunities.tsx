@@ -52,7 +52,7 @@ export default function Opportunities() {
             Opportunity types
           </div>
           <div className="lg:col-span-7">
-            <h2 className="max-w-4xl text-left text-[clamp(2.75rem,6vw,5.75rem)] font-black uppercase leading-[0.9] tracking-[-0.06em] text-[#3C2F2F]">
+            <h2 className="max-w-4xl text-left text-[clamp(2.5rem,6vw,5.75rem)] font-black leading-[0.92] tracking-[-0.055em] text-[#3C2F2F]">
               Available land opportunities in Florida
             </h2>
             <p className="mt-6 max-w-3xl text-left text-lg leading-8 text-[#3C2F2F]/75">

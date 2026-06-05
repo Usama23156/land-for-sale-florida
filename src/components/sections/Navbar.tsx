@@ -4,7 +4,7 @@ import { scrollToInquiry } from "@/lib/scroll";
 
 export default function Navbar() {
   return (
-    <header className="sticky top-0 z-40 border-b border-[#3C2F2F]/15 bg-[#FEFAF6]/95 backdrop-blur">
+    <header className="sticky top-0 z-40 border-b border-[#3C2F2F]/15 bg-[#FEFAF6]">
       <div className="mx-auto grid max-w-7xl grid-cols-[1fr_auto] items-center gap-6 px-5 py-4 sm:px-8 lg:grid-cols-12 lg:px-10">
         <a
           href="#"

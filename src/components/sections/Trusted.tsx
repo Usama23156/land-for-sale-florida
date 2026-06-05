@@ -36,7 +36,7 @@ export default function Trusted() {
             <div className="border-t border-[#3C2F2F] pt-5 text-xs font-black uppercase tracking-[0.28em] text-[#588157]">
               Trusted Process
             </div>
-            <h2 className="mt-8 text-[clamp(2.5rem,5vw,5.25rem)] font-black uppercase leading-[0.9] tracking-[-0.06em] text-[#3C2F2F]">
+            <h2 className="mt-8 text-[clamp(2.35rem,5vw,5.25rem)] font-black leading-[0.92] tracking-[-0.055em] text-[#3C2F2F]">
               A clear process from inquiry to next steps
             </h2>
             <p className="mt-7 max-w-xl text-lg leading-8 text-[#3C2F2F]/75">

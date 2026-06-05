@@ -12,7 +12,7 @@ export default function Hero() {
               Current Florida Availability
             </div>
             <div className="lg:col-span-5">
-              <h1 className="max-w-4xl text-left text-[clamp(3.75rem,10vw,8.5rem)] font-black uppercase leading-[0.86] tracking-[-0.08em] text-[#3C2F2F]">
+              <h1 className="max-w-4xl text-left text-[clamp(2.95rem,13vw,8.5rem)] font-black leading-[0.9] tracking-[-0.065em] text-[#3C2F2F]">
                 Buy the right lot in Florida with current availability
               </h1>
               <p className="mt-8 max-w-2xl text-left text-lg leading-8 text-[#3C2F2F]/75 md:text-xl">
@@ -56,7 +56,7 @@ export default function Hero() {
             className="absolute inset-0 h-full w-full object-cover"
           />
           <div className="absolute inset-0 bg-[#3C2F2F]/10" />
-          <div className="absolute bottom-0 left-0 right-0 grid grid-cols-3 border-t border-white/70 bg-[#FEFAF6]/90 text-left backdrop-blur-sm">
+          <div className="absolute bottom-0 left-0 right-0 grid grid-cols-3 border-t border-white/70 bg-[#FEFAF6]/95 text-left">
             {["Region", "Budget", "Timeline"].map((item) => (
               <div key={item} className="border-r border-[#3C2F2F]/15 p-4 last:border-r-0">
                 <div className="text-[0.65rem] font-black uppercase tracking-[0.22em] text-[#588157]">
